@@ -13,7 +13,7 @@ POST http://127.0.0.1:3000/auth/login
 Content-Type: application/json
 
  {
-    "name": "STEEVEN1",
+    "name": "KEVIN",
     "email": "asdasfa@gmail.com",
     "password": "1234567891sd0"
 }
